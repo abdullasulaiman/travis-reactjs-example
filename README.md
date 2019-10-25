@@ -25,11 +25,11 @@ We will add this file in our project root folder like this and push it to our gi
 
 In order to make this build file working, we need to link up our project to Travis. For that, we can go to our logged in account in Travis
 
-<img src="https://github.com/abdullasulaiman/travis-reactjs-example/blob/master/Add%20Repo.png" alt="Add Repository"/>
+<img src="https://github.com/abdullasulaiman/travis-reactjs-example/blob/master/images/AddRepo.png" alt="Add Repository"/>
 
 And then click the + icon near to the My Repositories which will open a new window.
 
-<img src="https://github.com/abdullasulaiman/travis-reactjs-example/blob/master/EnableTravis.png" alt="Enable Travis"/>
+<img src="https://github.com/abdullasulaiman/travis-reactjs-example/blob/master/images/EnableTravis.png" alt="Enable Travis"/>
 
 Then toggle the settings to enable the project. It will start the build process.
 
