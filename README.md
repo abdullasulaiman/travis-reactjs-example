@@ -33,4 +33,10 @@ And then click the + icon near to the My Repositories which will open a new wind
 
 Then toggle the settings to enable the project. It will start the build process.
 
+# Setting up auto deployment to GitHub Pages
+
+In order to deploy to the github pages, we need to provide access_token to our build file. To obtain a new access_token we can go to.
+
+https://github.com/settings/tokens/new
+
 
