@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/travis-reactjs-example/static/css/main.b100e6da.chunk.css",
+    "main.js": "/travis-reactjs-example/static/js/main.66a2808d.chunk.js",
+    "main.js.map": "/travis-reactjs-example/static/js/main.66a2808d.chunk.js.map",
+    "runtime-main.js": "/travis-reactjs-example/static/js/runtime-main.92381f40.js",
+    "runtime-main.js.map": "/travis-reactjs-example/static/js/runtime-main.92381f40.js.map",
+    "static/js/2.c2929629.chunk.js": "/travis-reactjs-example/static/js/2.c2929629.chunk.js",
+    "static/js/2.c2929629.chunk.js.map": "/travis-reactjs-example/static/js/2.c2929629.chunk.js.map",
+    "index.html": "/travis-reactjs-example/index.html",
+    "precache-manifest.678a4afd8b4a8e52a4f1f45f153c7508.js": "/travis-reactjs-example/precache-manifest.678a4afd8b4a8e52a4f1f45f153c7508.js",
+    "service-worker.js": "/travis-reactjs-example/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/travis-reactjs-example/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/travis-reactjs-example/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92381f40.js",
+    "static/js/2.c2929629.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.66a2808d.chunk.js"
+  ]
+}
