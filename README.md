@@ -94,4 +94,6 @@ https://<usename>.github.io/<repository_name>/
 Now, we can commit and push our changes to our repo in Github. It will automatically trigger the build. After successful completion of our build, it will deploy our project into the gh-pages. Thus resulting our app running in the URL which in my case is
 
 
+Deployed version through Travis CI on github pages
 
+https://abdullasulaiman.github.io/travis-reactjs-example/
